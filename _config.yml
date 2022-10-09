@@ -18,6 +18,7 @@ navbar-links:
     - Google: "https://www.google.com/"
     - Wikipedia: "https://www.wikipedia.org/"
     - Markdown: "https://www.markdowntutorial.com/"
+  Blog: "posts"
 
 ################
 # --- Logo --- #
