@@ -24,8 +24,8 @@ navbar-links:
 ################
 
 # Image to show in the navigation bar - works best with a square image
-avatar: "/assets/img/avatar-icon.png"
-round-avatar: true
+#avatar: "/assets/img/avatar-icon.png"
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title
 #title-img: /path/to/image
