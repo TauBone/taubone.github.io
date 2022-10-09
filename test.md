@@ -5,9 +5,7 @@ subtitle: This is a test page
 show-avatar: false
 ---
 
-Welcome to my website. LaTeX test:
-
-$$\int_a^b f(x) dx = 0$$
+Welcome to my website. LaTeX test: \$$\int_a^b f(x) dx = 0$$
 
 ### First Subheading
 
