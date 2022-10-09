@@ -1,7 +1,7 @@
 ---
-Layout: page
-Title: Test
-Subtitle: This is a test page
+layout: page
+title: Test
+subtitle: This is a test page
 ---
 
 Welcome to my website. LaTeX test:
