@@ -9,6 +9,6 @@ Subtitle: This is a test page
     Code possibly?
 
 LaTeX test:
-$$\int_a^b f(x) dx = 0$$
+$$ \int_a^b f(x) dx = 0 $$
 
 It works YAY!
