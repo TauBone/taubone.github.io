@@ -12,5 +12,5 @@ I am interested in groups, rings, modules, and algebras. Sometimes I like to thi
 
 ### Notes/Blurbs
 
-* [Shlonotes](https://taubone.github.io/shlonotes){:target="_blank"}
-* [Group Theory](https://taubone.github.io/group){:target="_blank"}
+* [Shlonotes](https://taubone.github.io/shlonotes.pdf){:target="_blank"}
+* [Group Theory](https://taubone.github.io/group.pdf){:target="_blank"}
