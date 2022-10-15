@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Everything you'd want to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Daniel Arreola. I am a second year graduate student at Iowa State University.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Research Interests
 
-What else do you need?
+I am interested in groups, rings, modules, and algebras. Sometimes I like to think about combinatorial problems.
 
-### My story
+### Notes/Blurbs
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* [Shlonotes](https://taubone.github.io/shlonotes){:target="_blank"}
+* [Group Theory](https://taubone.github.io/group){:target="_blank"}
