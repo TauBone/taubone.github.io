@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Daniel B. Arreola
 ---
 
 ### Short Bio
