@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Title
-subtitle: Subtitle
 ---
 
 ### Short Bio
@@ -12,7 +10,6 @@ I am a second year graduate student studying math at ==== ===== ==========. My a
 
 ### Teaching
 
-Currently I am a TA for Math 166 (Calc II). Here are some useful links for my students.
-
+Currently I am a TA for Math 166 (Calc II). Here are some useful links for my students.  
 - This is where the first link would be
 - This is where the second link would be
